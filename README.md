@@ -12,7 +12,4 @@ The goal of **AID-FINDER** is to assist individuals who lack access to basic nec
 
 ## Demo
 Watch a demo of the app in action:
-
-[![Watch the video](https://img.youtube.com/vi/eS7tv_w1W4w/0.jpg)](https://www.youtube.com/watch?v=eS7tv_w1W4w)
-
 [Click here to view the demo](https://www.youtube.com/watch?v=eS7tv_w1W4w)
