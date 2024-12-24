@@ -1,6 +1,6 @@
 # AID-FINDER
 
-**AID-FINDER** is a mobile application designed to help individuals locate food banks, homeless shelters, and community services nearby. The app's mission is to connect people in need with essential resources, enabling them to find help quickly and efficiently. By acting as a community link, this app aims to make a meaningful impact on people's lives.
+**AID-FINDER** is a mobile application designed using Android Studio to help individuals locate food banks, homeless shelters, and community services nearby. The app's mission is to connect people in need with essential resources, enabling them to find help quickly and efficiently. By acting as a community link, this app aims to make a meaningful impact on people's lives.
 
 ## Features
 - **Resource Locator:** Find nearby food banks, homeless shelters, and community services with a single click.
